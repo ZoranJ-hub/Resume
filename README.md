@@ -123,7 +123,11 @@ Major: Finance and Investments \| Minor: Business Communication
 
 -   Alteryx Machine Learning Fundamentals
 
+-   Alteryx Auto Insights Micro-Credential
+
 -   Alteryx Designer Core
+
+-   Alteryx Designer Cloud Core
 
 -   Microsoft Excel for Data Analytics and Visualization Specialization
 
