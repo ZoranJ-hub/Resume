@@ -51,6 +51,16 @@ Infrastructure/Data Engineering/Cloud Optimization \| August 2016 - Present
     modeling (Alteryx, SQL), and created visualizations to develop
     high-quality dashboards.
 
+## Software Developer Support / API Engineering
+
+-   Collaborated with Software Developer teams to architect and deliver REST APIs based on client requirements through full lifecycle management (ticket creation, Git branching, code development, and deployment).
+
+-   Leveraged Cline AI in VSCode to design API architecture, generate comprehensive documentation, and implement API specifications based on client prompts, accelerating development velocity.
+
+-   Executed rigorous API validation using Swagger/OpenAPI frameworks to ensure compliance with specifications and client requirements prior to production deployment.
+
+-   Managed end-to-end Git workflow utilizing IntelliJ IDEA and Bitbucket for version control, code reviews, and deployment pipeline integration with enterprise development standards.
+
 ## Project Management & Technology
 
 -   Managed the AWM DocuSign application buildout, enhancing the firm\'s
@@ -108,10 +118,10 @@ Credit Controller/Finance Operations
 
 Software: Microsoft Office (Word, Excel, PowerPoint, Access), Verum,
 TCO, Mans, Seal- Portal, Alteryx, Python (Dev Shell & Alteryx Designer),
-SQL.
+SQL, VSCode, IntelliJ IDEA.
 
 Tools: Alteryx, SQL (Advanced), Python, Financial Modeling (DCF, M&A,
-LBO).
+LBO), Git, Bitbucket, Swagger/OpenAPI, Cline AI.
 
 Languages: Spanish, Russian, and Serbian.
 
