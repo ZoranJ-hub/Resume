@@ -6,7 +6,7 @@ Phone: 917-349-2619 \| Email: zoranjokic@yahoo.com
 
 ## J.P. Morgan Chase (Asset Management) -- New York, NY
 
-Infrastructure/Data Engineering \| August 2016 - Present
+Infrastructure/Data Engineering/Cloud Optimization \| August 2016 - Present
 
 -   Executed architectural design projects, including plan
     implementations, upgrades, configuration changes, and expansions.
@@ -14,6 +14,14 @@ Infrastructure/Data Engineering \| August 2016 - Present
 -   Managed accurate infrastructure/deployment records using various
     internal tools (Verum, Capalytics, DBDB, File Storage Utility, Seal,
     TCO, Mars).
+
+-   Architected enterprise-grade data orchestration platform leveraging Cloudvision API, V12 API, and Verum API to consolidate multi-source financial data for FinOps KPI reporting to C-level AWM executives.
+
+-   Engineered automated data pipeline using Alteryx and Databricks that extracts, transforms, and aggregates cloud cost and infrastructure metrics into actionable executive dashboards, reducing manual reporting by 80%.
+
+-   Designed RESTful API integration layer leveraging VSCode and Python to establish seamless data flow between source systems (Cloudvision, V12, Verum) and Databricks, enabling real-time FinOps analytics and cost optimization insights.
+
+-   Developed scalable data architecture that standardizes FinOps metrics and KPIs across AWM infrastructure, providing senior management with comprehensive visibility into cloud spend, resource utilization, and cost-saving opportunities.
 
 -   Designed financial data analysis and presented insightful decisions
     to both technical and non-technical stakeholders.
