@@ -129,6 +129,8 @@ Major: Finance and Investments \| Minor: Business Communication
 
 -   Alteryx Designer Cloud Core
 
+-   Alteryx Designer Advanced Certification
+
 -   Microsoft Excel for Data Analytics and Visualization Specialization
 
 -   Dats Academy-SQL
@@ -140,3 +142,17 @@ Major: Finance and Investments \| Minor: Business Communication
 -   Academy Accreditation Generative AI Fundamentals
 
 -   Academy Accreditation Databricks Fundamentals
+
+-   Academy Accreditation - AI Agent Fundamentals
+
+-   Snowflakes - Hands-On Essentials: Data Warehousing Workshop
+
+-   Snowflakes - Hands-On Essentials: Collaboration, Marketplace & Cost Estimation Workshop
+
+-   FinOps Certified Practitioner
+
+-   FinOps Certified FOCUS Analyst
+
+-   FinOps Certified Engineer
+
+-   FinOps Certified: FinOps for AI
